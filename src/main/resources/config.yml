@@ -1,0 +1,13 @@
+mongo:
+  uri: ""
+
+groups:
+  MEMBER:
+    permissions:
+      - sophperms.test
+  ONESTAR:
+    permissions:
+      - sophperms.lel
+  MANAGER:
+    permissions:
+      - sophperms.setrank

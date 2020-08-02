@@ -1,0 +1,15 @@
+name: SophPerms
+version: ${project.version}
+main: me.github.wert.sophperms.Main
+api-version: 1.15
+authors: [mk3ext]
+commands:
+  getrank:
+    description: well simple
+  setrank:
+    description: simple
+permissions:
+  sophperms.setrank:
+    description: Can open set rank gui
+    default: false
+
